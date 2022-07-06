@@ -17,10 +17,10 @@ const Menu = () => (
       <a href="#features">SHADOWS</a>
     </p>
     <p>
-      <a href="#blog">The Grand Library</a>
+      <a href="#possibility">Our App</a>
     </p>
     <p>
-      <a href="#possibility">Our App</a>
+      <a href="#blog">The Grand Library</a>
     </p>
   </Fragment>
 );
