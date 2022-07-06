@@ -47,6 +47,10 @@
   cursor: pointer;
 }
 
+.khanvas__navbar-links_container p:hover {
+  color: var(--color-subtext);
+}
+
 .khanvas__navbar-sign button,
 .khanvas__navbar-menu_container button {
   padding: 0.5rem 1rem;

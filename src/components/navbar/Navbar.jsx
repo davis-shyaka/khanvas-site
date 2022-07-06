@@ -11,13 +11,13 @@ const Menu = () => (
       <a href="#home">Home</a>
     </p>
     <p>
-      <a href="#wgpt3">What is KHANVAS?</a>
+      <a href="#whatkhanvas">What is KHANVAS?</a>
     </p>
     <p>
-      <a href="#possibility">Cast a SHADOW</a>
+      <a href="#possibility">Explore</a>
     </p>
     <p>
-      <a href="#features">Maps</a>
+      <a href="#features">SHADOWS</a>
     </p>
     <p>
       <a href="#blog">The Grand Library</a>

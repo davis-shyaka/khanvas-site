@@ -3,7 +3,7 @@ import Feature from "../../components/feature/Feature";
 import "./whatKHANVAS.css";
 
 const WhatKHANVAS = () => (
-  <div className="khanvas__whatkhanvas section__margin" id="wkhanvas">
+  <div className="khanvas__whatkhanvas section__margin" id="whatkhanvas">
     <div className="khanvas__whatkhanvas-feature">
       <Feature
         title="What is KHANVAS"
