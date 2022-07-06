@@ -12,3 +12,32 @@
   --color-text: #81afdd;
   --color-subtext: #a8eb12;
 }
+
+/*  Customized Scrollbar */
+::-webkit-scrollbar {
+  width: 14px;
+  height: 21px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+::-webkit-scrollbar-thumb {
+  background-image: linear-gradient(45deg, #00aeff, #a8eb12);
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 650px) {
+  ::-webkit-scrollbar {
+    width: 7px;
+    height: 21px;
+  }
+  ::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  ::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(45deg, #00aeff, #a8eb12);
+    border-radius: 10px;
+  }
+}
