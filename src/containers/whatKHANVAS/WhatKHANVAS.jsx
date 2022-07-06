@@ -30,7 +30,7 @@ As it stands, the war between SHADOW and Phantom-kind is still being waged till 
       />
       <Feature
         title="The Choosing"
-        text="The de facto military academy where 'The Chosen' (designated soldiers of KHANVAS) are trainined and selection is held."
+        text="The de facto military academy where 'The Chosen' (designated soldiers of KHANVAS) are trained and selection is held."
       />
     </div>
   </div>

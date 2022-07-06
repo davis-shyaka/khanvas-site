@@ -14,13 +14,13 @@ const Menu = () => (
       <a href="#whatkhanvas">What is KHANVAS?</a>
     </p>
     <p>
-      <a href="#possibility">Explore</a>
-    </p>
-    <p>
       <a href="#features">SHADOWS</a>
     </p>
     <p>
       <a href="#blog">The Grand Library</a>
+    </p>
+    <p>
+      <a href="#possibility">Our App</a>
     </p>
   </Fragment>
 );

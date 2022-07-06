@@ -21,7 +21,7 @@ const featuresData = [
   },
   {
     title: "Firmi",
-    text: "Firmi are aggubaly the sole reason behind the creation of trade. They grow the crops and manintain the balance of Jungles. Did you know: Almost all Firmi are Tree Masters.",
+    text: "Firmi are aggubaly the sole reason behind the creation of trade on KHANVAS. They grow the crops,regulate the markets, and maintain the balance of Jungles. Did you know: Almost all Firmi are Tree Masters.",
   },
   {
     title: "Sunsmiths",
